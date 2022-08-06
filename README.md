@@ -2,7 +2,7 @@
 
 #Xamarin Video editor 
 
-# Easy-to-use Video Editor
+Easy-to-use Video Editor
 
 Video Editor with Music for Free
 
