@@ -16,4 +16,4 @@ Fature:
 - Trim and cut the video to the length you need. 
 - Add film inspired filters and magic glitch effects
 - Change aspect ratios fit for all media such as 1:1, 16:9, etc.
-- Export video in high resolution and share it on Instagram, Facebook, TikTok
+- Export video in high resolution and share it on Instagram, Facebook, TikTok. 
