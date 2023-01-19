@@ -10,10 +10,10 @@
 - Add all kinds of music to your video
 - Adjust volume, fade in/out to fit your video
 
-Fatures:
+Fature:
 
-- Support importing videos from gallery
-- Trim and cut the video to the length you need
+- Support importing videos from gallery. 
+- Trim and cut the video to the length you need. 
 - Add film inspired filters and magic glitch effects
 - Change aspect ratios fit for all media such as 1:1, 16:9, etc.
 - Export video in high resolution and share it on Instagram, Facebook, TikTok
